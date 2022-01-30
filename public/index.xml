@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PreThink on PreThink LLC</title>
+    <link>http://danprethink.github.io/</link>
+    <description>Recent content in PreThink on PreThink LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://danprethink.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speaking</title>
+      <link>http://danprethink.github.io/speaking/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://danprethink.github.io/speaking/</guid>
+      <description>Speaking  I occasionally give talks to classes and industry conferences. If you want to invite me, please go here. Rise of the Machines: FinTech and Consumer Financial Decision Making The 2018 Keynote at the Consumer Financial Decision Making conference in Boulder, CO. Improving client (and advisor) behavior with technology Keynote at the CFA Wealth Management Institute.  Watch What Robo-Advisors Can Teach Human Advisors About Evidence-Based Behavioral Finance My conversation with Michael Kitces on the Financial Advisor Success Podcast.</description>
+    </item>
+    
+    <item>
+      <title>Low cost is better than free</title>
+      <link>http://danprethink.github.io/blog/low-cost-is-better-than-free/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://danprethink.github.io/blog/low-cost-is-better-than-free/</guid>
+      <description>I blame Jack Bogle.
+His ‘cost matters’ message was honed so finely to a simple effective point that it dominated the fund industry for decades. Fund costs fell relentlessly.
+So we hit the logical conclusion: nothing is lower cost than ‘free’! We now have free trades, free index funds, and ‘free’ financial advice.
+Yet, ‘free’ can be a poison wrapped in chocolate. When something is ‘free’ the incentives for both the consumer and provider change dramatically, often in ways that are invisibly worse for consumers.</description>
+    </item>
+    
+    <item>
+      <title>Betterment Projects</title>
+      <link>http://danprethink.github.io/blog/betterment_contributions/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://danprethink.github.io/blog/betterment_contributions/</guid>
+      <description>Some wins, some failures. Over the course of a decade at Betterment, I had a fair mix of successful successes, and successful failures. Betterment has been crafted to help people save and invest easily. I&amp;rsquo;ve influenced the design of web and smartphone app interface, portfolios and strategies, are intelligently designed to make good behavior automatic, and bad behavior difficult. As a result, Betterment’s customers have the lowest behavior gap I know of.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://danprethink.github.io/services/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://danprethink.github.io/services/</guid>
+      <description>Services  Exactly what q Get in touch. Behavioral audits We survey your existing product for light, low-level behavioral opportunities and propose improvements.  Learn more Fast App Prototyping  Have an idea for an app, but don&#39;t have the design &amp; developer skills to build it? We specialize in quickly and efficiently taking an idea and getting into a working web or native app. Learn more Something else Need something that isn&#39;t covered here?</description>
+    </item>
+    
+    <item>
+      <title>Tachyons for Style</title>
+      <link>http://danprethink.github.io/blog/tachyons-for-style/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://danprethink.github.io/blog/tachyons-for-style/</guid>
+      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.  Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+    </item>
+    
+    <item>
+      <title>CSS Grid Scaffold</title>
+      <link>http://danprethink.github.io/blog/css-grid-scaffold/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://danprethink.github.io/blog/css-grid-scaffold/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
+ Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.</description>
+    </item>
+    
+    <item>
+      <title>Built-in Contact Form</title>
+      <link>http://danprethink.github.io/blog/built-in-contact-form/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://danprethink.github.io/blog/built-in-contact-form/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.  Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
+    </item>
+    
+    <item>
+      <title>Case studies</title>
+      <link>http://danprethink.github.io/case-studies/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://danprethink.github.io/case-studies/</guid>
+      <description>Case Studies Rapid prototype: financial health -- I worked with an advisor-tech provider to take their in-house models for financial health and create a prototype web &amp; mobile app using Flutter. After 3 months they had a working prototype, with all the conceptual problems ironed out, and used it to pitch prospects and apply for government grant funding. Attrition reduction -- Why are 95% of users bouncing after logging in? Funnily enough, bWe helped design a task and content delivery system to give users productive actions to take or content to read, increasing NPS significantly.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://danprethink.github.io/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>http://danprethink.github.io/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder **</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://danprethink.github.io/about/</link>
+      <pubDate>Tue, 19 Feb 2019 14:47:22 -0600</pubDate>
+      
+      <guid>http://danprethink.github.io/about/</guid>
+      <description>Hi there!  PreThink was founded by Dan Egan (me) in 2021 to help with on a wide array of personal finance and investing.
+I&#39;ve worked at Betterment since 2013 on how the design of personal finance apps influences behavior. I love helping create new digital tools, data visualiations, science fiction, dogs, and snowboarding.
+I studied economics and decision science, finishing my MSc in 2005. I&#39;ve collaborated on a few academic papers, done a lot of public speaking and press, and some pretty cool coding.</description>
+    </item>
+    
+    <item>
+      <title>Research &amp; Publications</title>
+      <link>http://danprethink.github.io/research/</link>
+      <pubDate>Tue, 19 Feb 2019 14:47:22 -0600</pubDate>
+      
+      <guid>http://danprethink.github.io/research/</guid>
+      <description>Research and Publications Increasing tax salience reduces market timing ↗️  Many investors make mistakes when it comes to taxes - they actively trade in taxable accounts compared to tax-advantaged accounts, and realize short-term capital gains when long-term treatment would be preferable.
+In a field experiment we show the effect of highlighting tax consequences of portfolio allocation changes before investors commit to the change. Allocation changes drop significantly when investors are notified of potential taxes owed.</description>
+    </item>
+    
+    <item>
+      <title>Typography Styles &amp; Element Examples</title>
+      <link>http://danprethink.github.io/elements/</link>
+      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
+      
+      <guid>http://danprethink.github.io/elements/</guid>
+      <description>Font Sizes   A A A A A A A A   6rem
+(96px) 5rem
+(80px) 3rem
+(48px) 2.25rem
+(36px) 1.5rem
+(24px) 1.25rem
+(20px) 1rem
+(16px) .875rem
+(14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+    </item>
+    
+  </channel>
+</rss>
