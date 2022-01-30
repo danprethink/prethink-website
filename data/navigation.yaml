@@ -1,0 +1,21 @@
+header:
+  - name: Services
+    title: Services
+    url: /services/
+  - name: Case studies
+    title: Case Studies
+    url: /case-studies/
+  - name: About
+    title: About
+    url: /about/
+  - name: Contact
+    title: Contact Form
+    url: /contact/ 
+
+footer:
+  - name: Terms of Use
+    title: Terms and Conditions
+    url: https://help.formspree.io
+  - name: RSS
+    title: RSS Feed
+    url: /index.xml
