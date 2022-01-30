@@ -1,4 +1,4 @@
-baseURL = "http://danprethink.github.io/prethink-website/"
+baseURL = "https://danprethink.github.io/prethink-website/"
 languageCode = "en-us"
 title = "PreThink LLC"
 author = "PreThink LLC"
