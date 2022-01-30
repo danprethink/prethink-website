@@ -5,9 +5,9 @@ header:
   - name: Services
     title: Services
     url: /services
-  - name: Case studies
-    title: Case Studies
-    url: /case-studies
+  - name: Highlights
+    title: Highlights
+    url: /highlights
   - name: About
     title: About
     url: /about
