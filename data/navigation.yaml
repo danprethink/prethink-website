@@ -1,16 +1,19 @@
 header:
+  - name: Home
+    title: Home Page
+    url: /
   - name: Services
     title: Services
-    url: /services/
+    url: /services
   - name: Case studies
     title: Case Studies
-    url: /case-studies/
+    url: /case-studies
   - name: About
     title: About
-    url: /about/
+    url: /about
   - name: Contact
     title: Contact Form
-    url: /contact/ 
+    url: /contact
 
 footer:
   - name: Terms of Use

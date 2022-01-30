@@ -9,10 +9,10 @@
 <meta property="og:description" content="“Grid is the very first CSS module created specifically to solve the layout problems we&rsquo;ve all been hacking our way around for as long as we&rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
  Since I began building websites in Y2K, I&rsquo;ve lost count how many times the phrase &ldquo;&hellip;there&rsquo;s got to be a better way to do this&rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://danprethink.github.io/blog/css-grid-scaffold/" /><meta property="og:image" content="http://danprethink.github.io/blog/assets/css-grid-thumbnail.png" /><meta property="og:image" content="http://danprethink.github.io/blog/assets/css-grid-cover.png" /><meta property="article:section" content="blog" />
+<meta property="og:url" content="http://danprethink.github.io/prethink-website/blog/css-grid-scaffold/" /><meta property="og:image" content="http://danprethink.github.io/blog/assets/css-grid-thumbnail.png" /><meta property="og:image" content="http://danprethink.github.io/blog/assets/css-grid-cover.png" /><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2019-07-02T00:00:00+00:00" />
 <meta property="article:modified_time" content="2019-07-02T00:00:00+00:00" />
-<meta property="og:see_also" content="http://danprethink.github.io/blog/low-cost-is-better-than-free/" /><meta property="og:see_also" content="http://danprethink.github.io/blog/betterment_contributions/" /><meta property="og:see_also" content="http://danprethink.github.io/blog/tachyons-for-style/" /><meta property="og:see_also" content="http://danprethink.github.io/blog/built-in-contact-form/" />
+<meta property="og:see_also" content="http://danprethink.github.io/prethink-website/blog/low-cost-is-better-than-free/" /><meta property="og:see_also" content="http://danprethink.github.io/prethink-website/blog/betterment_contributions/" /><meta property="og:see_also" content="http://danprethink.github.io/prethink-website/blog/tachyons-for-style/" /><meta property="og:see_also" content="http://danprethink.github.io/prethink-website/blog/built-in-contact-form/" />
 
 
   <meta itemprop="name" content="CSS Grid Scaffold">
@@ -31,27 +31,29 @@
 
   
   <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="../../img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="../../img/favicon.ico" type="image/x-icon">
   
   
-  <link rel="stylesheet" href="http://danprethink.github.io/style.main.min.87bcd06010b2f64cd0cb0889a9434e40fddf12814609aa0b0efe559ec7f3ddde.css" integrity="sha256-h7zQYBCy9kzQywiJqUNOQP3fEoFGCaoLDv5Vnsfz3d4=" media="screen">
+  <link rel="stylesheet" href="http://danprethink.github.io/prethink-website/style.main.min.87bcd06010b2f64cd0cb0889a9434e40fddf12814609aa0b0efe559ec7f3ddde.css" integrity="sha256-h7zQYBCy9kzQywiJqUNOQP3fEoFGCaoLDv5Vnsfz3d4=" media="screen">
 </head>
 <body>
       <div class="grid-container single-sidebar"><header class="site-header pa4 bb b--transparent" role="banner">
   <nav class="site-nav db dt-l w-100" role="nav">
-    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="http://danprethink.github.io/" title="Home">
-      <img src="/img/logo.png" class="dib db-l h2 w-auto" alt="PreThink LLC">
+    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="http://danprethink.github.io/prethink-website/" title="Home">
+      <img src="../../img/logo.png" class="dib db-l h2 w-auto" alt="PreThink LLC">
     </a>
     <div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l">
       
-      <a class="link f6 f5-l dib pv1 ph2" href="/services/" title="Services">Services</a>
+      <a class="link f6 f5-l dib pv1 ph2" href="../../" title="Home Page">Home</a>
       
-      <a class="link f6 f5-l dib pv1 ph2" href="/case-studies/" title="Case Studies">Case studies</a>
+      <a class="link f6 f5-l dib pv1 ph2" href="../../services" title="Services">Services</a>
       
-      <a class="link f6 f5-l dib pv1 ph2" href="/about/" title="About">About</a>
+      <a class="link f6 f5-l dib pv1 ph2" href="../../case-studies" title="Case Studies">Case studies</a>
       
-      <a class="link f6 f5-l dib pv1 ph2" href="/contact/" title="Contact Form">Contact</a>
+      <a class="link f6 f5-l dib pv1 ph2" href="../../about" title="About">About</a>
+      
+      <a class="link f6 f5-l dib pv1 ph2" href="../../contact" title="Contact Form">Contact</a>
       
       
     </div>
@@ -73,7 +75,7 @@
 <hr>
 <p>Since I began building websites in Y2K, I&rsquo;ve lost count how many times the phrase &ldquo;&hellip;there&rsquo;s got to be a better way to do this&rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid <code>TABLE</code>.</p>
 <p>Well, technology sure has come a long way since slicing up images to match the table-based layout that was just created in Dreamweaver. You&rsquo;d be surprised (or maybe you wouldn&rsquo;t) how challenging the standard header, content, sidebar, footer layout could be to actually get right.</p>
-<figure><img src="/blog/assets/css-grid-cover.png"
+<figure><img src="../../blog/assets/css-grid-cover.png"
          alt="Traditional right sidebar layout"/><figcaption>
             <p>A visual example of the traditional right sidebar layout</p>
         </figcaption>
@@ -119,11 +121,11 @@
         <div class="post-pagination dt w-100 mt4 mb2">
   
     <a class="prev dtc pr2 tl v-top fw6"
-    href="http://danprethink.github.io/blog/built-in-contact-form/">&larr; Built-in Contact Form</a>
+    href="http://danprethink.github.io/prethink-website/blog/built-in-contact-form/">&larr; Built-in Contact Form</a>
   
   
     <a class="next dtc pl2 tr v-top fw6"
-    href="http://danprethink.github.io/blog/tachyons-for-style/">Tachyons for Style &rarr;</a>
+    href="http://danprethink.github.io/prethink-website/blog/tachyons-for-style/">Tachyons for Style &rarr;</a>
   
 </div>
 
@@ -142,7 +144,7 @@
   <h1 class="f3">A Blog That&#39;s Real</h1>
   <p class="f6 lh-copy measure">This is a fully featured blog that supports categories, tags, series, and pagination. Even this sidebar offers a ton of customizations. Check out the sidebar_content.yaml file in the /data folder to edit this content.</p>
   
-  <small class="db f7"><a href="/blog" class="dib fw7 ttu bt bw1 b--black-10 pt3">View Recent Posts</a></small>
+  <small class="db f7"><a href="../../blog" class="dib fw7 ttu bt bw1 b--black-10 pt3">View Recent Posts</a></small>
 </div>
 
 
@@ -167,29 +169,29 @@
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Categories:</dt>
-    <dd class="fw5 ml0"> <a href="http://danprethink.github.io/categories/theme-features">Theme Features</a> </dd>
+    <dd class="fw5 ml0"> <a href="http://danprethink.github.io/prethink-website/categories/theme-features">Theme Features</a> </dd>
   </dl>
   
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Series:</dt>
-    <dd class="fw5 ml0"> <a href="http://danprethink.github.io/series/getting-started">Getting Started</a> </dd>
+    <dd class="fw5 ml0"> <a href="http://danprethink.github.io/prethink-website/series/getting-started">Getting Started</a> </dd>
   </dl>
   
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Tags:</dt>
-    <dd class="fw5 ml0"> <a href="http://danprethink.github.io/tags/hugo-site">hugo-site</a> </dd>
+    <dd class="fw5 ml0"> <a href="http://danprethink.github.io/prethink-website/tags/hugo-site">hugo-site</a> </dd>
   </dl>
   
   <dl class="f6 lh-copy">
     <dt class="fw7">See Also:</dt>
     
-    <dd class="fw5 ml0"><a href="/blog/low-cost-is-better-than-free/">Low cost is better than free</a></dd>
+    <dd class="fw5 ml0"><a href="../../prethink-website/blog/low-cost-is-better-than-free/">Low cost is better than free</a></dd>
     
-    <dd class="fw5 ml0"><a href="/blog/betterment_contributions/">Betterment Projects</a></dd>
+    <dd class="fw5 ml0"><a href="../../prethink-website/blog/betterment_contributions/">Betterment Projects</a></dd>
     
-    <dd class="fw5 ml0"><a href="/blog/tachyons-for-style/">Tachyons for Style</a></dd>
+    <dd class="fw5 ml0"><a href="../../prethink-website/blog/tachyons-for-style/">Tachyons for Style</a></dd>
     
   </dl>
 </details>
@@ -211,7 +213,7 @@ Icons created by <a href="https://www.flaticon.com/" title="icons">Freepik - Fla
       
       <a class="dib pv1 ph2 link" href="https://help.formspree.io" title="Terms and Conditions">Terms of Use</a>
       
-      <a class="dib pv1 ph2 link" href="/index.xml" title="RSS Feed">RSS</a>
+      <a class="dib pv1 ph2 link" href="../../index.xml" title="RSS Feed">RSS</a>
       
     </div>
   </nav>

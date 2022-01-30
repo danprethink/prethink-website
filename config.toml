@@ -1,4 +1,4 @@
-baseURL = "http://danprethink.github.io/"
+baseURL = "http://danprethink.github.io/prethink-website/"
 languageCode = "en-us"
 title = "PreThink LLC"
 author = "PreThink LLC"
@@ -15,6 +15,9 @@ footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
 paginate = 3
 preserveTaxonomyNames = true
+publishdir = "docs"
+canonifyURLs = false
+relativeURLs = true 
 
 [params]
   orgName = "PreThink LLC"

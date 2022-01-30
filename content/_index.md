@@ -8,7 +8,7 @@ date: 2022-01-24
 images:
   - img/chatting.png
 show_action_link: true
-action_link: /services/
+action_link: services/
 action_label: "Read More &rarr;"
 action_type: text # text, button
 type: home

@@ -20,7 +20,7 @@ layout: standard
   <div class="mr4-l w-l">
   <h4 id="prethink" class="f4 mt4 lh-title">Rapid prototype: financial health</h4>
     <p class="measure-wide lh-copy cf">
-      <!--<img src="/about/assets/prethink_green_transparent.png" align="right" class="mw-100 w4 mr3 db br3"
+      <!--<img src="about/assets/prethink_green_transparent.png" align="right" class="mw-100 w4 mr3 db br3"
         alt="Blue tinted version of the Tachyons avatar on Twitter"> -->
       I worked with an advisor-tech provider to take their in-house models for financial health and create a prototype web & mobile app using <a href = https://flutter.dev/>Flutter</a>. After 3 months they had a working prototype, with all the conceptual problems ironed out, and used it to pitch prospects and apply for government grant funding. 
     </p>
