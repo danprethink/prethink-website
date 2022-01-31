@@ -43,7 +43,7 @@ Yet, ‘free’ can be a poison wrapped in chocolate. When something is ‘free�
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danprethink.github.io/prethink-website/services/</guid>
-      <description>Services  It&#39;s always dangerous to say what you do, in case people think you don&#39;t want to try new things. If you have an idea or request that isn&#39;t on here, feel free to get in touch.. The more novel, the better. Behavioral audits We survey your existing product for light, low-level behavioral opportunities and propose improvements.  Learn more Fast App Prototyping  Have an idea for an app, but don&#39;t have the design &amp; developer skills to build it?</description>
+      <description>Services  It&#39;s always dangerous to say what you do, in case people think you don&#39;t want to try new things. If you have an idea or request that isn&#39;t on here, feel free to get in touch.. The more novel, the better.       Advisory work    We&#39;ve got decades of successes and failures we&#39;ve learned from. If you have a new product or service and you want someone to help you avoid the mistakes they&#39;ve already made, we&#39;d be happy to help.</description>
     </item>
     
     <item>
@@ -72,15 +72,6 @@ Yet, ‘free’ can be a poison wrapped in chocolate. When something is ‘free�
       
       <guid>https://danprethink.github.io/prethink-website/blog/built-in-contact-form/</guid>
       <description>Formspree makes it easy to receive submissions from HTML forms on your static website.  Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
-    </item>
-    
-    <item>
-      <title>Case studies</title>
-      <link>https://danprethink.github.io/prethink-website/highlights/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://danprethink.github.io/prethink-website/highlights/</guid>
-      <description>Case Studies Rapid prototype: financial health -- I worked with an advisor-tech provider to take their in-house models for financial health and create a prototype web &amp; mobile app using Flutter. After 3 months they had a working prototype, with all the conceptual problems ironed out, and used it to pitch prospects and apply for government grant funding. Attrition reduction -- Why are 95% of users bouncing after logging in? Funnily enough, bWe helped design a task and content delivery system to give users productive actions to take or content to read, increasing NPS significantly.</description>
     </item>
     
     <item>
@@ -128,6 +119,18 @@ In a field experiment we show the effect of highlighting tax consequences of por
 (20px) 1rem
 (16px) .875rem
 (14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+    </item>
+    
+    <item>
+      <title>Highlights</title>
+      <link>https://danprethink.github.io/prethink-website/highlights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danprethink.github.io/prethink-website/highlights/</guid>
+      <description>A few projects we loved contributing to.
+ 📱 Prototype: financial health app An advisor-tech wanted to turn their in-house models for financial health into a web &amp;amp; mobile app.
+After 4 months of collaboration they had a working prototype web-app, a stronger conceptual model, a extentable design system, and began using it in pitches to prospect partners and grant funding.
+ 😕 Self-service game changer Analysis showed that around 90% of customer service inbounds were for features that already existed in the app.</description>
     </item>
     
   </channel>

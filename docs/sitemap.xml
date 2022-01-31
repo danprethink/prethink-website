@@ -44,9 +44,6 @@
     <loc>https://danprethink.github.io/prethink-website/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://danprethink.github.io/prethink-website/highlights/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://danprethink.github.io/prethink-website/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
@@ -64,5 +61,7 @@
   </url><url>
     <loc>https://danprethink.github.io/prethink-website/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
+  </url><url>
+    <loc>https://danprethink.github.io/prethink-website/highlights/</loc>
   </url>
 </urlset>
