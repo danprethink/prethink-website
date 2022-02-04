@@ -18,7 +18,7 @@ preserveTaxonomyNames = true
 publishdir = "docs"
 canonifyURLs = false
 relativeURLs = true 
-enableRobotsTXT: true
+enableRobotsTXT = true
 
 [params]
   orgName = "PreThink LLC"
