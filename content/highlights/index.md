@@ -4,6 +4,7 @@ excerpt: "This theme has a form-to-email feature built in, thanks to the simple 
 author: "Daniel Egan"
 draft: false
 layout: compact
+date: "2022-02-04"
 show_title_as_headline: true
 ---
 
