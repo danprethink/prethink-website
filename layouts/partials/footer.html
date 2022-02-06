@@ -15,9 +15,11 @@
     </div>
     {{ end }}
     <div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0">
+
       {{ range $.Site.Data.navigation.footer }}
       <a class="dib pv1 ph2 link" href="{{ .url }}" title="{{ .title }}">{{ .name }}</a>
       {{ end }}
+      <br>Last modified {{ .Lastmod.Format "2006-02-01" }}
     </div>
   </nav>
 </footer>
