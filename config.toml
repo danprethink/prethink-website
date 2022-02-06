@@ -19,10 +19,19 @@ publishdir = "docs"
 canonifyURLs = false
 relativeURLs = true 
 enableRobotsTXT = true
+enableGitInfo = true
+
 [sitemap]
   changefreq = 'hourly'
   filename = 'sitemap.xml'
   priority = 0.2
+
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
 
 [params]
   orgName = "PreThink LLC"
@@ -61,8 +70,3 @@ enableRobotsTXT = true
   twitter = "prethinkllc"
   github = ""
   medium = ""
-
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"

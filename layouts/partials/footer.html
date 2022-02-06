@@ -19,7 +19,9 @@
       {{ range $.Site.Data.navigation.footer }}
       <a class="dib pv1 ph2 link" href="{{ .url }}" title="{{ .title }}">{{ .name }}</a>
       {{ end }}
-      <br>Last modified {{ .Lastmod.Format "2006-02-01" }}
+      <br />Last Modified {{ with .GitInfo }}
+      {{ .AuthorDate.Format "2006-01-02" }}
+      {{ end}}
     </div>
   </nav>
 </footer>
